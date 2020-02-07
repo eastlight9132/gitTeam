@@ -1,3 +1,5 @@
+ 테스트. 추가사항 적용 2020년 2월 7일 신동광이병
+
 class gitTeam{
 	public static void main(String args[]){
 	System.out.println("gitTeam");
