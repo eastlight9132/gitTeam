@@ -1,4 +1,4 @@
- 테스트. 추가사항 적용 2020년 2월 7일 신동광이병
+ 테스트. 추가사항 적용 2020년 2월 7일 바꾸기 완료 - 박부장 - 
 
 class gitTeam{
 	public static void main(String args[]){
